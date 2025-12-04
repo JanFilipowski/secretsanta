@@ -1,0 +1,14 @@
+{
+  "smtp": {
+    "host": "mail.arst.pl",
+    "port": 587,
+    "use_tls": true,
+    "username": "swietymikolaj@arst.pl",
+     "password": "*****"
+  },
+  "email": {
+    "from_email": "Święty Mikołaj <swietymikolaj@arst.pl>",
+    "subject": "Wynik losowania – Wigilia Politechniczna 2025",
+    "body": "Cześć {giver_first}! 🎄\n\nNadszedł czas świątecznego losowania na Wigilię Politechniczną 2025.\nW tym roku masz przyjemność przygotować kartkę świąteczną dla:\n\n{target_first} {target_last}\n\nPostaraj się, żeby była osobista i pełna dobrej energii – kilka ciepłych słów potrafi zdziałać cuda. ✨\n\nDo zobaczenia na Wigilii Politechnicznej!\n\nŚwiątecznie pozdrawiam,\nŚwięty Mikołaj Politechniczny"
+ }
+}

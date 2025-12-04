@@ -1,0 +1,39 @@
+[
+  {
+    "first_name": "Krzysztof",
+    "last_name": "Majerski",
+    "email": "krzysztof@filipowski.eu",
+    "allowed": [
+      "Alicja Boruta",
+      "Tomasz Wierzbicki",
+      "Magdalena Serafin"
+    ]
+  },
+  {
+    "first_name": "Alicja",
+    "last_name": "Boruta",
+    "email": "aboruta@arst.pl",
+    "allowed": [
+      "Krzysztof Majerski",
+      "Magdalena Serafin"
+    ]
+  },
+  {
+    "first_name": "Tomasz",
+    "last_name": "Wierzbicki",
+    "email": "twierzbicki@arst.pl",
+    "allowed": [
+      "Krzysztof Majerski",
+      "Alicja Boruta"
+    ]
+  },
+  {
+    "first_name": "Magdalena",
+    "last_name": "Serafin",
+    "email": "mserafin@arst.pl",
+    "allowed": [
+      "Krzysztof Majerski",
+      "Alicja Boruta"
+    ]
+  }
+]
